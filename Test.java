@@ -8,7 +8,6 @@ public class Test {
 
     public static void main(String [] args){
         int numer=1;
-        System.out.println("第一个文件");
         System.out.println("1");
         String a="ceshi";
     }
